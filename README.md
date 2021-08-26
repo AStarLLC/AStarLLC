@@ -20,23 +20,28 @@ With personalized learning pathways to track progress, students can hone in on t
 ## Founders
 <div align="center">
   <p>
-        <img src="https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/s150x150/77106459_2568284086573625_5693516232213397504_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_ohc=_P3f3Hl3b6oAX-p4YZo&edm=ABfd0MgBAAAA&ccb=7-4&oh=0a5dfa974a0c9f6f33d4bc83624ed473&oe=612D794F&_nc_sid=7bff83" alt="kerry" height="256"/>
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFByC3tB0Vhvw/profile-displayphoto-shrink_200_200/0/1571582581670?e=1635379200&v=beta&t=GHLhIMd3Vyaxpc6hcngISsqv55XiNo8lP8tcrPU3Sn8" alt="kerry" height="256"/>
         <h2>Kerry Mickens</h2>
         <p>Software Engineer @ Chewy</p>
+  <br/>
   </p>
   <p>
-    <img src="https://avatars.githubusercontent.com/u/44210761?s=100&v=4" alt="true" height="256"/>
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE_WD4FENaSig/profile-displayphoto-shrink_200_200/0/1623878302702?e=1635379200&v=beta&t=jV1PXcV7_qeG49iIObUEjHT6ljz-Zkscp-De00vLMH4" alt="true" height="256"/>
       <h2>True Sandoval</h2>
+      <p>Marketing Analyst @ AvePoint </p>
+      <br/>
   </p>
   <p>
     <img src="https://media-exp1.licdn.com/dms/image/C5603AQFkg6lou9hCzA/profile-displayphoto-shrink_200_200/0/1628110195297?e=1635379200&v=beta&t=3YBk1hAIWq8rslRKE2E09rUqOwpCuG5ETBJz6nLgYec" alt="caleb" height="256"/>
       <h2>Caleb Caviness</h2>
       <p>Computer Science student @ Morgan State University</p>
+      <br/>
   </p>
   <p>
     <img src="https://avatars.githubusercontent.com/u/24500251?v=4" alt="darryl" height="256"/>
   <h2>Darryl Brooks</h2>
   <p>Software Engineer @ American Airlines</p>
+  <br/>
   </p>
 </div>
   
