@@ -1,12 +1,12 @@
 <p align="center">
   <a>
     <img src="https://user-images.githubusercontent.com/24500251/130865849-f757a8a7-37f2-4b3f-abca-e8c087840477.jpg" alt="a star logo" height="128"/>
-    <h1 align="center">A Star</h1>
+    <h1 align="center">Inventure</h1>
   </a>
 </p>
 
 ## Who are we?
-A Star is a professional development platform by students, for students. Our goal is to close the diversity hiring gap by providing underrepresented computer science students with the tools they need to become **qualified** Software Engineers. 
+Inventure is a professional development platform by students, for students. Our goal is to close the diversity hiring gap by providing underrepresented computer science students with the tools they need to become **qualified** Software Engineers. 
 
 With personalized learning pathways to track progress, students can hone in on their technical skills while providing recruiters with a data-driven talent pool of diverse candidates.
 
@@ -48,4 +48,4 @@ With personalized learning pathways to track progress, students can hone in on t
   
 ## Pick a time to chat with us!
 
-[AStar Quick Chat - Darryl Brooks](https://calendly.com/astarllc/quickchat)
+[Inventure Quick Chat - Darryl Brooks](https://calendly.com/astarllc/quickchat)
